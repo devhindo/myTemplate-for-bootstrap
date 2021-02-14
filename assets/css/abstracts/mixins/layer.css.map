@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "layer.css",
+	"sources": [
+		"../../../../scss/abstracts/mixins/layer.scss"
+	],
+	"sourcesContent": [
+		""
+	],
+	"names": [],
+	"mappings": ""
+}
